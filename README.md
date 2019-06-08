@@ -11,3 +11,4 @@
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [GitKraken](https://www.gitkraken.com/)
 * [Xcode](https://developer.apple.com/download/more/)
+* [NVM](https://github.com/nvm-sh/nvm)
