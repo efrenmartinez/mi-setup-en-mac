@@ -1,8 +1,4 @@
-# Setup que uso en Mac.
-
-# SETUP PARA MAC
-
-### Herramientas que uso en Mac:
+# Herramientas que uso en Mac.
 
 * [iTerm2](https://iterm2.com/)
 * [Homebrew](https://brew.sh/)
@@ -12,3 +8,4 @@
 * [GitKraken](https://www.gitkraken.com/)
 * [Xcode](https://developer.apple.com/download/more/)
 * [NVM](https://github.com/nvm-sh/nvm)
+* [PostMan](https://www.getpostman.com/)
