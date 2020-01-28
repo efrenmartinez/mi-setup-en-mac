@@ -2,7 +2,16 @@
 
 * [iTerm2](https://iterm2.com/)
 * [Homebrew](https://brew.sh/)
-* [GIT](https://git-scm.com/)
+
+´´´
+$ brew install git
+$ brew install tree
+$ brew cask install iterm2
+rm '/usr/local/bin/git-cvsserver'
+brew link --overwrite git
+brew install git-lfs
+git lfs install
+´´´
 * [Visual Studio Code](https://code.visualstudio.com/)
   * Auto Close Tag
   * Auto Rename Tag
