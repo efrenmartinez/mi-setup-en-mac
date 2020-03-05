@@ -51,16 +51,16 @@ Extensiones:
   * Auto Close Tag
   * Auto Rename Tag
   * Bracket Pair Colorizer 2
-  * Dracula Official
+  * Night Owl
   * ESLint
   * Prettier - Code formatter
   * Vetur
   * VSCode Great Icons
   * GitLens
+  * Flutter
+  * Dart
 
-Instalar [1Password](https://www.1password.com/)
-
-
+Uso [1Password](https://www.1password.com/)
 
 
 ## License
