@@ -40,5 +40,6 @@ Mensajeria
 
 [Mis alias para Git](https://gist.github.com/efrenmartinez/fbb356eb168205b8d7090e26aae586f5)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## [License](https://choosealicense.com/licenses/mit/)
+
+MIT © [Efrén Martínez](https://github.com/efrenmartinez)
