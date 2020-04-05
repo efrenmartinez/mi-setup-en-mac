@@ -1,53 +1,26 @@
-# Herramientas que uso en Mac.
+# Setup en Mac
 
-Instalar [Homebrew](https://brew.sh/)
-```bash
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-```
+![mac](https://media.giphy.com/media/bfrlODgSLqXxS/source.gif)
 
-Configurar git
+Aplicaciones generales
+* [1Password](https://1password.com/es/)
+* [Notion](https://www.adobe.com/mx/products/xd.html)
+* [Keynote](https://www.apple.com/mx/keynote/)
 
-```bash
-$ rm '/usr/local/bin/git-cvsserver'
-$ brew link --overwrite git
-$ brew install git-lfs
-$ git lfs install
-```
-Configuración de 
-[SSH](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+Aplicaciones para desarrollo
 
-Instalar comando Tree
+* [Homebrew](https://brew.sh/)
+* [Docker](https://hub.docker.com/)
+* [Firefox](https://www.mozilla.org/es-MX/firefox/new/)
+* [XCode](https://developer.apple.com/xcode/)
+* [Adobe XD](https://www.adobe.com/mx/products/xd.html)
+* [Gitkraken](https://www.gitkraken.com/)
+* [iTerm2](https://www.iterm2.com/)
+* [ZSH](https://ohmyz.sh/)
+* [Vue.js Dev Tools](https://addons.mozilla.org/es/firefox/addon/vue-js-devtools/)
+* [VsCode](https://code.visualstudio.com/)
 
-```bash
-$ brew install tree
-```
-
-Configurar git con VSCode.
-
-```bash
-$ git config --global core.editor 'code --wait'
-```
-
-Instalar iTerm2
-
-```bash
-$ brew cask install iterm2
-```
-
-Instalar ZSH
-```bash
-sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
-
-Instalar [Visual Studio Code](https://code.visualstudio.com/)
-
-Usar Iterm y ZSH en VSCode en settings.json
-```bash
-    "terminal.external.osxExec": "iTerm.app",
-    "terminal.integrated.shell.osx": "zsh"
-```
-
-Extensiones:
+Extensiones para VsCode
   * Auto Close Tag
   * Auto Rename Tag
   * Bracket Pair Colorizer 2
@@ -60,8 +33,12 @@ Extensiones:
   * Flutter
   * Dart
 
-Uso [1Password](https://www.1password.com/)
+Mensajeria 
+* [Slack](https://slack.com/intl/es-mx/)
+* [Microsoft Teams](https://products.office.com/es-mx/microsoft-teams/group-chat-software)
+* [Zoom](https://zoom.us/)
 
+[Mis alias para Git](https://gist.github.com/efrenmartinez/fbb356eb168205b8d7090e26aae586f5)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
