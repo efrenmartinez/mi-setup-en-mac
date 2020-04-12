@@ -32,6 +32,7 @@ Extensiones para VsCode
   * GitLens
   * Flutter
   * Dart
+  * SynthWave '84
 
 Mensajeria 
 * [Slack](https://slack.com/intl/es-mx/)
