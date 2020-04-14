@@ -40,6 +40,7 @@ Mensajeria
 * [Zoom](https://zoom.us/)
 
 [Mis alias para Git](https://gist.github.com/efrenmartinez/fbb356eb168205b8d7090e26aae586f5)
+[Mis dependencias que instalo en NPM](packages-install.md)
 
 ## [License](https://choosealicense.com/licenses/mit/)
 
