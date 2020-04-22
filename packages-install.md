@@ -5,3 +5,4 @@
 - npm-check-update
 - create-react-app
 - eslint
+- gatsby
