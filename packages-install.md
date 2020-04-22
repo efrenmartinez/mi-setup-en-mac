@@ -1,5 +1,7 @@
 # Dependencias en NPM
 
-- quasar
+- @quasar/cli
 - live-server
 - npm-check-update
+- create-react-app
+- eslint
