@@ -33,14 +33,16 @@ Extensiones para VsCode
   * Flutter
   * Dart
   * SynthWave '84
+  * Simple React Snippets
 
 Mensajeria 
 * [Slack](https://slack.com/intl/es-mx/)
 * [Microsoft Teams](https://products.office.com/es-mx/microsoft-teams/group-chat-software)
 * [Zoom](https://zoom.us/)
 
-* [Mis alias para Git](https://gist.github.com/efrenmartinez/fbb356eb168205b8d7090e26aae586f5)
-* [Mis dependencias que instalo en NPM](packages-install.md)
+Alias y dependencias
+* [Alias para Git](https://gist.github.com/efrenmartinez/fbb356eb168205b8d7090e26aae586f5)
+* [Dependencias que instalo en NPM](packages-install.md)
 
 ## [License](https://choosealicense.com/licenses/mit/)
 
