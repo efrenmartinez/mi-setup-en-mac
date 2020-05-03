@@ -2,6 +2,6 @@
 
 - @quasar/cli
 - live-server
-- npm-check-update
+- npm-check-updates
 - create-react-app
 - eslint
