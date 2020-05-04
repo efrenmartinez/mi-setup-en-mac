@@ -6,3 +6,8 @@
 - create-react-app
 - eslint
 - gatsby
+- nodemon
+
+```bash
+npm i -g live-server@latest @quasar/cli@latest npm-check-updates@latest create-react-app@latest eslint@latest nodemon@latest gatsby@latest
+```

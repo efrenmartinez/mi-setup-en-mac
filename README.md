@@ -17,6 +17,7 @@ Aplicaciones para desarrollo
 - [Adobe XD](https://www.adobe.com/mx/products/xd.html)
 - [Gitkraken](https://www.gitkraken.com/)
 - [iTerm2](https://www.iterm2.com/)
+  - [Tema Minimal Improved](https://github.com/gdsrosa/minimal_improved)
 - [ZSH](https://ohmyz.sh/)
 - [Vue.js Dev Tools](https://addons.mozilla.org/es/firefox/addon/vue-js-devtools/)
 - [VsCode](https://code.visualstudio.com/)
@@ -35,6 +36,8 @@ Extensiones para VsCode
 - Flutter
 - Dart
 - ES7 React/Redux/GraphQL/React-Native snippets
+- Svelte
+- Svelte 3 Snippets
 
 Mensajeria
 
