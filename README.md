@@ -50,6 +50,10 @@ Alias y dependencias
 - [Alias para Git](https://gist.github.com/efrenmartinez/fbb356eb168205b8d7090e26aae586f5)
 - [Dependencias que instalo en NPM](packages-install.md)
 
+Extensiones para Firefox 
+
+- [daily.dev](https://daily.dev)
+
 ## [License](https://choosealicense.com/licenses/mit/)
 
 MIT © [Efrén Martínez](https://github.com/efrenmartinez)
