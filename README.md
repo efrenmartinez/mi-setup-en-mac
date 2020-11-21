@@ -1,59 +1,46 @@
-# Setup en Mac
+# Mi setup en MAC
 
 ![mac](https://media.giphy.com/media/bfrlODgSLqXxS/source.gif)
 
 Aplicaciones generales
 
 - [1Password](https://1password.com/es/)
-- [Notion](https://www.adobe.com/mx/products/xd.html)
-- [Keynote](https://www.apple.com/mx/keynote/)
-
-Aplicaciones para desarrollo
-
-- [Homebrew](https://brew.sh/)
-- [Docker](https://hub.docker.com/)
+- [Notion](https://www.notion.so/)
 - [Firefox](https://www.mozilla.org/es-MX/firefox/new/)
-- [XCode](https://developer.apple.com/xcode/)
+- [Discord](https://discord.com/)
+- [Figma](https://www.figma.com)
+- [Zomm](https://zoom.us/)
+- [Microsoft Teams](https://www.microsoft.com/es-mx/microsoft-365/microsoft-teams/group-chat-software)
+- [Spotify](https://www.spotify.com/mx/)
+- [iTerm2](https://iterm2.com)
+- [Hyper](https://hyper.is/)
+- [VSCode](https://code.visualstudio.com/)
+- [Homebrew](https://brew.sh/)
 - [Adobe XD](https://www.adobe.com/mx/products/xd.html)
-- [Gitkraken](https://www.gitkraken.com/)
-- [iTerm2](https://www.iterm2.com/)
-  - [Tema Minimal Improved](https://github.com/gdsrosa/minimal_improved)
 - [ZSH](https://ohmyz.sh/)
-- [Vue.js Dev Tools](https://addons.mozilla.org/es/firefox/addon/vue-js-devtools/)
-- [VsCode](https://code.visualstudio.com/)
+- [Brew](https://brew.sh/)
+    * git
+    * github cli
+    * nvm
+    * zsh
+    * yarn
+    * tree
+    * bat
 
 Extensiones para VsCode
 
-- Auto Close Tag
-- Auto Rename Tag
 - Bracket Pair Colorizer 2
-- Night Owl
 - ESLint
-- Prettier - Code formatter
-- Vetur
+- Prettier
 - VSCode Great Icons
-- GitLens
-- Flutter
-- Dart
-- ES7 React/Redux/GraphQL/React-Native snippets
-- Svelte
-- Svelte 3 Snippets
-
-Mensajeria
-
-- [Slack](https://slack.com/intl/es-mx/)
-- [Microsoft Teams](https://products.office.com/es-mx/microsoft-teams/group-chat-software)
-- [Zoom](https://zoom.us/)
 
 Alias y dependencias
 
 - [Alias para Git](https://gist.github.com/efrenmartinez/fbb356eb168205b8d7090e26aae586f5)
 - [Dependencias que instalo en NPM](packages-install.md)
 
-Extensiones para Firefox 
-
-- [daily.dev](https://daily.dev)
-
+Recursos
+- [setup](https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a)
 ## [License](https://choosealicense.com/licenses/mit/)
 
 MIT © [Efrén Martínez](https://github.com/efrenmartinez)
