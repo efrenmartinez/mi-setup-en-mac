@@ -9,7 +9,7 @@ Aplicaciones generales
 - [Firefox](https://www.mozilla.org/es-MX/firefox/new/)
 - [Discord](https://discord.com/)
 - [Figma](https://www.figma.com)
-- [Zomm](https://zoom.us/)
+- [Zoom](https://zoom.us/)
 - [Microsoft Teams](https://www.microsoft.com/es-mx/microsoft-365/microsoft-teams/group-chat-software)
 - [Spotify](https://www.spotify.com/mx/)
 - [iTerm2](https://iterm2.com)
@@ -27,12 +27,25 @@ Aplicaciones generales
     * tree
     * bat
 
-Extensiones para VsCode
+Extensiones para VSCode
 
 - Bracket Pair Colorizer 2
 - ESLint
 - Prettier
 - VSCode Great Icons
+- Vetur
+- Trailing Spaces
+- indent-rainbow
+- Auto Close Tag
+- Auto Rename Tag
+
+Theme para VSCode
+
+- [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
+
+Fuente para VSCode
+
+- [Fira Code](https://github.com/tonsky/FiraCode)
 
 Alias y dependencias
 
@@ -40,7 +53,7 @@ Alias y dependencias
 - [Dependencias que instalo en NPM](packages-install.md)
 
 Recursos
-- [setup](https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a)
+- [Setup your Mac for development, 2020 edition.](https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a)
 ## [License](https://choosealicense.com/licenses/mit/)
 
 MIT © [Efrén Martínez](https://github.com/efrenmartinez)
