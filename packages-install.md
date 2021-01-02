@@ -4,3 +4,4 @@
 - npm-check-updates
 - gitmoji-cli
 - @antfu/ni
+- live-server
