@@ -35,9 +35,11 @@ Extensiones para VSCode
 - VSCode Great Icons
 - Vetur
 - Trailing Spaces
-- indent-rainbow
+- Indent-rainbow
 - Auto Close Tag
 - Auto Rename Tag
+- Turbo Console Log
+- Shades of Purple - Tema
 
 Theme para VSCode
 
@@ -56,4 +58,4 @@ Recursos
 - [Setup your Mac for development, 2020 edition.](https://dev.to/v3frankie/setup-your-mac-for-development-2020-edition-1c8a)
 ## [License](https://choosealicense.com/licenses/mit/)
 
-MIT © [Efrén Martínez](https://github.com/efrenmartinez)
+MIT
