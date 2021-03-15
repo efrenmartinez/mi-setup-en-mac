@@ -40,6 +40,7 @@ Extensiones para VSCode
 - Auto Rename Tag
 - Turbo Console Log
 - Shades of Purple - Tema
+- Halcyon Theme
 
 Theme para VSCode
 
